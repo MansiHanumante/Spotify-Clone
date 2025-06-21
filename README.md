@@ -1,0 +1,2 @@
+# Spotify-Clone
+The “spotify-clone” project is a web application that replicates the core functionality of the popular music streaming service Spotify. The application allows users to browse and play music, create and manage playlists. The project is built using HTML, CSS, JavaScript, Tailwind CSS, and VITE, and it leverages the Spotify Develop
